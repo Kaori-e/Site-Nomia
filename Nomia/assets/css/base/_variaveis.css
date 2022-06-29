@@ -1,0 +1,14 @@
+:root {
+    --roxo: #7b2cbf;
+    --roxo-transparente: #762eb188;
+    --branco: #FFFFFF;
+    --cinza: #909090;
+    --preto: #202020;
+    --preto-transparente: #0000000F;
+    --verde: #198754;
+
+    
+    --famnilia-corpo: 'Montserrat', sans-serif;
+    --familia-titulo-destaque: 'Elsie Swash Caps', serif;
+    --familia-logo: 'Lobster', sans-serif;
+}
